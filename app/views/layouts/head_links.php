@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="<?=base_url('assets/css/bootstrap.min.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/plugins/switchery/switchery.min.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/css/anthal.css');?>">
+<link rel="stylesheet" href="<?//=base_url('assets/css/materialize.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/css/font-awesome.min.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/css/custom/mdb.min.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/css/custom/custom.css');?>">
+<link rel="stylesheet" href="<?=base_url('assets/css/pike.css');?>">
+<link rel="stylesheet" href="<?//=base_url('assets/css/custom/mwd.css');?>">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poiret+One|Raleway">
+<script type="text/javascript" src="<?=base_url('assets/js/modernizr.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/jquery-3.3.1.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/moment.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/popper.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/bootstrap.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/detect.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/fastclick.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/jquery.blockUI.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/jquery.nicescroll.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/jquery.scrollTo.min.js');?>"></script>
+<script type="text/javascript" src="<?=base_url('assets/js/pikeadmin.js');?>"></script>
+<!-- <script type="text/javascript" src="<?//=base_url('assets/js/materialize.min.js');?>"></script> -->

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "davidepastore/codice-fiscale": "^0.4.2"
+    }
+}

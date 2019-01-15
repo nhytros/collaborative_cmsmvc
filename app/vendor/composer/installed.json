@@ -1,0 +1,48 @@
+[
+    {
+        "name": "davidepastore/codice-fiscale",
+        "version": "v0.4.2",
+        "version_normalized": "0.4.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/DavidePastore/codice-fiscale.git",
+            "reference": "b053c6f7e5242cb7022a59eeda564925cc4f70cb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/DavidePastore/codice-fiscale/zipball/b053c6f7e5242cb7022a59eeda564925cc4f70cb",
+            "reference": "b053c6f7e5242cb7022a59eeda564925cc4f70cb",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*",
+            "scrutinizer/ocular": "~1.1"
+        },
+        "time": "2019-01-02T12:58:07+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "davidepastore",
+                "email": "pasdavide@gmail.com"
+            }
+        ],
+        "description": "An italian tax code calculator and checker",
+        "keywords": [
+            "codice fiscale",
+            "italian",
+            "italy",
+            "tax code",
+            "validator"
+        ]
+    }
+]
